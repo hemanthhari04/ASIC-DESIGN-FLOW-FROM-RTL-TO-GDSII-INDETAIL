@@ -46,3 +46,5 @@ Reference guides for tool usage and interpreting results.
 Example testbenches and design files to accelerate learning.
 
 Explore this repository to deepen your understanding of the complete ASIC design flow—from the first line of code to a manufacturable chip blueprint.
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b73e63dd-4dad-4156-96ca-22617113bf90" />
