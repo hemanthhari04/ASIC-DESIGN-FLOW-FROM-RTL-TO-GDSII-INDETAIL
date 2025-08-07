@@ -2,6 +2,7 @@
 This repository provides an in-depth, practical exploration of the full ASIC (Application-Specific Integrated Circuit) design flow, spanning from RTL (Register Transfer Level) coding to GDSII file generation. It is intended for students, engineers,
 
 *Overview* 
+
 The ASIC design flow is a systematic sequence that transforms a digital design specification into a manufactured silicon chip. The process ensures the design is functionally correct, optimized for area, power, and performance, and ready for fabrication.
 
 *Design Flow Steps*
